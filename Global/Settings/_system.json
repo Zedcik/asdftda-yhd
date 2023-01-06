@@ -1,0 +1,87 @@
+{
+    "SERVER": {
+        "ID": "986189075599990784",
+        "Name": "† Witcher"
+    },
+
+    "TOKENS": {
+        "Requirements": "", 
+        "Statistics": "",
+        "Voucher": "",
+
+        "SECURITY": {
+            "MAIN": "MTAxMzkzNDI1ODI1NzE1NDIwOA.GdOuiC.cj_vBz8_2hsxFXl_x_pRQI_KFa5OpRKosWUzUM",
+            "SEC_ONE": "OTk4NTMzODQ4NjA4NTQyNzYy.GMnUr7.0Q2pwVTajtTHb_Lh-9xe0lywj0R8bLq3wXfRnE",
+            "SEC_TWO": "OTk4NTM0MDA2NjcwOTAxMzA4.Glrt_5.1OC_rNqgUhL2F4X9xHJYZuNqFIP7R0lGT1rrTQ",
+            "SEC_THREE": "OTk4NTM4NTAyMjUxNzUzNTcz.G8H9mQ.MFQpGb6LwCINvAR1WnY0Woo9fuq2UhKIZvSrOc",
+            "SEC_FOUR": "MTAxMzkzMjU4NjA4MDQyNDA2Ng.GROwb9.R6n2UsWO1thi1LnmPGOcERj1OzWIXrHrPIH_s8",
+            "DISTS": [
+                "OTk4NTM4NTMzMTIxODIyNzUy.GYbfm8.r9eox0vPmqGvc0jukToyZdUGdcOWE4Y4tBoOJg",
+                "OTk4ODkyMzEyOTkyMTYxODQz.GfToGp.IhMx2gZKrcOgZoX3xNbumv7EmYh3hBBjNWznbc",
+                "OTk4ODkyMzg4MDQ1MDQ1ODIx.GNbBVl._XIEOqKiAnJx-OxhKjR7n_I2mMWWQQqEOeUBHI",
+                "OTk4ODkyNDM0NTEzNzIzNDQz.G_U7Fg.eujrToHLgdFsU7zTyNEczfV6AHMlZ7iBMXH_Dg"
+            ],
+            "GUILD_OWNER_TOKEN": ""
+        },
+
+        "WELCOME": {
+            "Active": false,
+            "WELCOMES": [
+                "",
+                "",
+                "",
+                "",
+                ""
+        ],
+            "WELCOME_CHANNELS": [
+                "",
+        "",
+        "",
+        "",
+        ""
+            ]
+        }
+    },
+    "botSettings": {
+        "Prefixs": [".","+","!","/","-"]
+    },
+
+
+
+    "WELCOMES": [
+        "",
+                "",
+                "",
+                "",
+                ""
+    ],
+
+    "WELCOME_CHANNELS": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+
+    "embed": {
+        "iconURL": "https://cdn.discordapp.com/icons/986189075599990784/a_d576418cb384984e143e035f5bba0f7b.gif?size=2048",
+        "başlık": "† Witcher",
+        "altbaşlık": "† Witcher Developed By Shelby",
+        "renk": "RANDOM"
+      },
+
+    "botStatus": {
+        "Status": "idle",
+        "Name": "† Witcher Developed By Shelby",
+        "voiceChannelID": "1013918111948353566"
+    },
+    "Database" : {
+        "Active": true,
+        "MongoURL": "mongodb+srv://ShelbyZ4ra:ShelbyZ4ra@cluster0.lwntwkm.mongodb.net/ShelbyZ4ra?retryWrites=true&w=majority"
+    }
+
+}
+
+
+
